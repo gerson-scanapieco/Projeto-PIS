@@ -1,0 +1,29 @@
+No projeto seguem os itens:
+
+-Driver JDBC pra o MySQL do NETBEANS
+-Modelo do banco do MYSQL
+-Projeto NETBEANS do codigo
+-E esse manual, obvio! ;)
+
+
+Rodando o projeto:
+
+-Instale o MySql
+-Abra o modelo do banco com ele
+-Va na aba Database/Foward Engineer... para ele criar o modelo fisico do banco ( o arquivo que tah no repositorio eh soh a descricao do banco)
+-O banco foi criado, e para fucar nele vcs vao usar outra tela agora
+-Insiram alguns dados no banco para vcs poderem logar no sistema (um funcionario com login jah eh o suficiente)
+-Abra o projeto do NETBEANS, clique no nome dele com o botao direito e cliquem em Propriedades
+-Em Libraries ( se vcs usam a versao pt do NB deve ser 'Bibliotecas') adicionem o .jar que vem no zip do conector jdbc
+-Agora eh soh rodar, mas lembrem que pra entrar no sistema tem de haver um funcionario previamente cadastrado no banco. E lembrando que o
+MySQL deve estar rodando pra conectar no banco.
+
+
+TO DO:
+
+-A parte do Medico nao foi feita ainda.
+
+
+
+
+Qualquer duvida, me perguntem (ou perguntem ao Google tmb xD)!
